@@ -1,1 +1,1 @@
-# SPAI
+# Ethnicity-predictor
